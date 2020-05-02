@@ -1,5 +1,13 @@
 def get_without_index(index, lijst):
     return lijst[:index] + lijst[(1 + index):]
 
-x = range(10)
-print(get_without_index(4, x))
+def duplicate_count(text):
+    text = text.upper()
+    checked = []
+    output = 0
+    for i in range(len(text)):
+        if text[i] not in checked and text[i] in get_without_index(i, text):
+            output += 1
+        checked.append(text[i])
+    return output
+        

@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948550e3-3ef1-4224-ac94-9fadb29c1ae0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/couting_duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/largest_5_digit_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/largest_power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/array_manipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/game_of_two_stacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/matrix_ez.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/sparse_arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/erratas/ceasar_cypher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/almost_everywhere_zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/almost_everywhere_zero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/check_divisible.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/check_divisible.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/couting_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/couting_duplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/detect_pangram.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/detect_pangram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/find_smallest.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/find_smallest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/screen_locking_patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/screen_locking_patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/square_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/square_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/take_a_walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/take_a_walk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mensen_helpen /emma-vs/oef.py" beforeDir="false" afterPath="$PROJECT_DIR$/mensen_helpen /emma-vs/oef.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,51 @@
       <recent name="$PROJECT_DIR$/hackerrank/LinkedLists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.couting_duplicates">
+  <component name="RunManager" selected="Python.ceasar_cypher">
+    <configuration name="almost_everywhere_zero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProblemSolvingWithJeeVeeVee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_wars" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_wars/almost_everywhere_zero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ceasar_cypher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProblemSolvingWithJeeVeeVee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/erratas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/erratas/ceasar_cypher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="couting_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProblemSolvingWithJeeVeeVee" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,29 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_of_two_stacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProblemSolvingWithJeeVeeVee" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/game_of_two_stacks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="largest_5_digit_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find_smallest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProblemSolvingWithJeeVeeVee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +127,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_wars/largest_5_digit_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_wars/find_smallest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="largest_power" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="oef" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProblemSolvingWithJeeVeeVee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,34 +144,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_wars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mensen_helpen /emma-vs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_wars/largest_power.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="matrix_ez" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProblemSolvingWithJeeVeeVee" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/matrix_ez.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mensen_helpen /emma-vs/oef.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ceasar_cypher" />
+        <item itemvalue="Python.oef" />
+        <item itemvalue="Python.find_smallest" />
+        <item itemvalue="Python.almost_everywhere_zero" />
         <item itemvalue="Python.couting_duplicates" />
-        <item itemvalue="Python.largest_5_digit_number" />
-        <item itemvalue="Python.largest_power" />
-        <item itemvalue="Python.matrix_ez" />
-        <item itemvalue="Python.game_of_two_stacks" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,7 @@
       <updated>1586940442524</updated>
       <workItem from="1586940444121" duration="12809000" />
       <workItem from="1587557560611" duration="7958000" />
-      <workItem from="1587822323977" duration="3192000" />
+      <workItem from="1587822323977" duration="12113000" />
     </task>
     <servers />
   </component>
@@ -192,49 +192,61 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2562" y="345" width="625" height="423" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586940467747" />
-    <state width="1920" height="259" key="GridCell.Tab.0.bottom" timestamp="1587825676356">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.0.bottom" timestamp="1588349868190">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="259" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1587825676356" />
-    <state width="1920" height="259" key="GridCell.Tab.0.center" timestamp="1587825676356">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868190" />
+    <state width="960" height="259" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1588349493198" />
+    <state width="960" height="334" key="GridCell.Tab.0.center" timestamp="1588349868190">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="259" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1587825676356" />
-    <state width="1920" height="259" key="GridCell.Tab.0.left" timestamp="1587825676356">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868190" />
+    <state width="960" height="259" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1588349493198" />
+    <state width="960" height="334" key="GridCell.Tab.0.left" timestamp="1588349868189">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="259" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1587825676356" />
-    <state width="1920" height="259" key="GridCell.Tab.0.right" timestamp="1587825676356">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868189" />
+    <state width="960" height="259" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1588349493198" />
+    <state width="960" height="334" key="GridCell.Tab.0.right" timestamp="1588349868190">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="259" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1587825676356" />
-    <state width="1154" height="324" key="GridCell.Tab.1.bottom" timestamp="1586959793495">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868190" />
+    <state width="960" height="259" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1588349493198" />
+    <state width="960" height="334" key="GridCell.Tab.1.bottom" timestamp="1588349868190">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="960" height="334" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868190" />
     <state width="1154" height="324" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586959793495" />
-    <state width="1154" height="324" key="GridCell.Tab.1.center" timestamp="1586959793495">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.1.center" timestamp="1588349868190">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="960" height="334" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868190" />
     <state width="1154" height="324" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586959793495" />
-    <state width="1154" height="324" key="GridCell.Tab.1.left" timestamp="1586959793495">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.1.left" timestamp="1588349868190">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="960" height="334" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868190" />
     <state width="1154" height="324" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586959793495" />
-    <state width="1154" height="324" key="GridCell.Tab.1.right" timestamp="1586959793495">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="960" height="334" key="GridCell.Tab.1.right" timestamp="1588349868190">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="960" height="334" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1588349868190" />
     <state width="1154" height="324" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1586959793495" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$extra_long_factorials.coverage" NAME="extra_long_factorials Coverage Results" MODIFIED="1586959308108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
-    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$game_of_two_stacks.coverage" NAME="game_of_two_stacks Coverage Results" MODIFIED="1587562378100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$oef.coverage" NAME="oef Coverage Results" MODIFIED="1588084550570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mensen_helpen /emma-vs" />
     <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$largest_power.coverage" NAME="largest_power Coverage Results" MODIFIED="1587824935478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_wars" />
-    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$couting_duplicates.coverage" NAME="couting_duplicates Coverage Results" MODIFIED="1587825676328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_wars" />
     <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$queens_attack.coverage" NAME="queens_attack Coverage Results" MODIFIED="1587562306933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
     <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$largest_5_digit_number.coverage" NAME="largest_5_digit_number Coverage Results" MODIFIED="1587825050432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_wars" />
     <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$magic_square.coverage" NAME="magic_square Coverage Results" MODIFIED="1586941938617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1586942619799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$almost_everywhere_zero.coverage" NAME="almost_everywhere_zero Coverage Results" MODIFIED="1588073820126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_wars" />
     <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$leaderbords.coverage" NAME="leaderbords Coverage Results" MODIFIED="1586957375239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$extra_long_factorials.coverage" NAME="extra_long_factorials Coverage Results" MODIFIED="1586959308108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$game_of_two_stacks.coverage" NAME="game_of_two_stacks Coverage Results" MODIFIED="1587562378100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$couting_duplicates.coverage" NAME="couting_duplicates Coverage Results" MODIFIED="1587825676328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_wars" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$find_smallest.coverage" NAME="find_smallest Coverage Results" MODIFIED="1588074614717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_wars" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1586942619799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$matrix_ez.coverage" NAME="matrix_ez Coverage Results" MODIFIED="1587822921454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hackerrank" />
+    <SUITE FILE_PATH="coverage/ProblemSolvingWithJeeVeeVee$ceasar_cypher.coverage" NAME="ceasar_cypher Coverage Results" MODIFIED="1588349867783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/erratas" />
   </component>
 </project>
