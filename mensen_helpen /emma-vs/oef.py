@@ -33,4 +33,4 @@ for i in range(1, len(x)):
         hb.set_markerfacecolor("r")
         hb.set_markeredgecolor("r")
         htxt.set_color("r")
-    plt.pause(0.0001)
+    plt.pause(0)

@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="948550e3-3ef1-4224-ac94-9fadb29c1ae0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/erratas/ceasar_cypher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/almost_everywhere_zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/almost_everywhere_zero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/check_divisible.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/check_divisible.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/couting_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/couting_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/detect_pangram.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/detect_pangram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/find_smallest.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/find_smallest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/screen_locking_patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/screen_locking_patterns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/square_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/square_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/take_a_walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/take_a_walk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mensen_helpen /emma-vs/oef.py" beforeDir="false" afterPath="$PROJECT_DIR$/mensen_helpen /emma-vs/oef.py" afterDir="false" />
-    </list>
+    <list default="true" id="948550e3-3ef1-4224-ac94-9fadb29c1ae0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,6 +169,7 @@
       <workItem from="1586940444121" duration="12809000" />
       <workItem from="1587557560611" duration="7958000" />
       <workItem from="1587822323977" duration="12113000" />
+      <workItem from="1589272153313" duration="608000" />
     </task>
     <servers />
   </component>
