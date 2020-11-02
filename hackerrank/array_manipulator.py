@@ -1,13 +1,16 @@
-def arrayManipulation(n, queries):
-    line = []
-    for i in range(n):
-        line.append(0)
-    for querie in queries:
-        begin = querie[0] - 1
-        end = querie[1]
-        value = querie[2]
-        for i in range(begin, end):
-            line[i] += value
-        print(line)
+import math
+import os
+import random
+import re
+import sys
 
-    return max(line)
+# Complete the arrayManipulation function below.
+def arrayManipulation(n, queries):
+    array = [0 for i in range(n)]
+    for querie in queries:
+        for i in range(querie[0] - 1, querie[1]):
+            array[i] += querie[2]
+        print(array)
+    return max(array)
+
+print(arrayManipulation(10, [[1, 2, 100], [2, 5, 100], [3, 4, 100]]))
